@@ -4,7 +4,7 @@ project:
 website:
   title: "Merete Lutz"
   navbar:
-    background: lights
+    background: light
     search: true
     left:
       - href: index.qmd
