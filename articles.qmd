@@ -1,7 +1,18 @@
 ---
-title: "Articles"
+pagetitle: Articles | Merete Lutz
+title: Articles
+subtitle: "A selection of writing projects"
+listing:
+  contents:
+    - path: https://www.theplayerstribune.com/articles/merete-lutz-volleyball-covid-19-south-korea
+      image: /images/gs.jpg
+      title: "What I Saw in South Korea"
+      description: "First-hand account of my experience as a professional athlete and epidemiologist in South Korea during the COVID-19 pandemic"
+    - path: https://stanford_ftp.sidearmsports.com/custompages/MyStory/MereteLutz/index.html
+      image: /images/stanford.jpg
+      title: "My Tall Tale"
+      description: "Article about my experience as a Student Athlete at Stanford"
+  type: grid
+  feed: true
+  fields: [image, title, description]
 ---
-
-**[What I Saw in South Korea](https://www.theplayerstribune.com/articles/merete-lutz-volleyball-covid-19-south-korea)** | First-hand account of my experience as a professional athlete and epidemiologist in South Korea during the COVID-19 pandemic | 2020  
-
-**[My Tall Tale](https://stanford_ftp.sidearmsports.com/custompages/MyStory/MereteLutz/index.html)** | 

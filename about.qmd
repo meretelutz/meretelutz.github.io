@@ -1,5 +1,8 @@
 ---
-title: "About"
+title: "About Me"
+image: images/headshot.JPG
+about:
+  template: trestles
 ---
 
 Merete Lutz is a graduate student at the University of British Columbia pursuing a Master's degree in Data Science. Before moving to Vancouver, she played professional volleyball for five years in Italy, South Korea, and Japan. As an student at Stanford University she graduated with a BS in Human Biology and a MS in Epidemiology. She is passionate about global public health and hopes to use data science to improve health outcome worldwide. 

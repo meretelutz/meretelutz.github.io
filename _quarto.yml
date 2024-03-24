@@ -11,6 +11,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - projects.qmd
   page-footer: 
     left: "Copyright 2023, Merete Lutz"
       
