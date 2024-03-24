@@ -5,5 +5,28 @@ about:
   template: trestles
 ---
 
-Merete Lutz is a graduate student at the University of British Columbia pursuing a Master's degree in Data Science. Before moving to Vancouver, she played professional volleyball for five years in Italy, South Korea, and Japan. As an student at Stanford University she graduated with a BS in Human Biology and a MS in Epidemiology. She is passionate about global public health and hopes to use data science to improve health outcome worldwide. 
+Below is a brief summary of what I've been up to for the last couple of years. Please see my LinkedIn, or email me for a more formal outline of my education and professional experience.
 
+## Data Science Masters
+I moved to Vancouver in August 2023 to begin my [Masters of Data Science](https://masterdatascience.ubc.ca/) at UBC. This program has added numerous machine learning methods and statistical practices to my analytical toolbox, building on my knowledge of epidemiological methology and biostatistics. Upon completion of this intensive 10 month-program I feel I will be prepared to excel in any future data science role.
+
+### [Key Courses](https://ubc-mds.github.io/descriptions/)
+- **Machine Learning** (Supervised & Unsupervised; Classification, Regression, Neural Networks, Language Modelling (NLP), Feature Selection, Time Series & Temporal Models, Deep Learning)
+- **Statistics** (Predictive & Descriptive Statistical Inference, A/B Testing, Hypothesis Testing, Bayesian Statistics, Regression)
+- **Relational Databases & Database Management** (PostgreSQL, NoSQL, MongoDB)
+- **Data Visualization** (Python: Altair & matlplotlib, R: ggplot)
+- **ML Ops & Software Development** (CI/CD, Containerization, Reproducibility, Data Science Workflows, Unit Testing, Automated Workflows)
+- **Web & Cloud Computing** (AWS, Spark)
+- **Data Structures & Algorithms**
+- **Data Privacy & Ethics**
+
+## Professional Volleyball
+After graduating from Stanford University in 2018 with my MS in Epidemiology and my BS in Human Biology, I followed my dream of playing professional volleyball overseas. Over 5 years I played in three different countries and gained invaluable life experience. I learned how to adapt to and thrive in unfamiliar cultures, work as part of a team in spite of language barriers, and wholly dedicated myself to perfecting my skills. I also won a league championship in South Korea and was named Co-MVP in the championship series!
+
+I've always been passionate about sports, and as an athlete I was always interested in the data and metrics my team was collecting. From the court to the office, I now hope to apply my data science skills to the world of sports analytics, ideally combining my love of sports and interest in medical data.
+
+## Master's of Science in Epidemiology
+????
+
+## Bachelor's of Science in Human Biology
+Concentration in Environmental Change and the Ecology of Infectious Disease.

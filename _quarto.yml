@@ -5,7 +5,7 @@ project:
 website:
   title: "Merete Lutz"
   navbar:
-    background: light
+    background: primary
     search: true
     left:
       - href: index.qmd
@@ -15,7 +15,7 @@ website:
       - href: projects.qmd
         text: Projects
   page-footer: 
-    left: "Copyright 2023, Merete Lutz" 
+    left: "Copyright 2024, Merete Lutz" 
 
 format:
   html:

@@ -31,13 +31,13 @@ I'm now looking for the perfect opportunity to combine my data science skills wi
 ::: {style="text-align: center;"}
 ### [About Me](about.qmd)
 
-Learn a bit about me and what I've been up to recently!
+Learn more about me and my background
 :::
 
 ::: {style="text-align: center;"}
 ### [Projects](projects.qmd)
 
-Explore some of my notable projects!
+Explore some of my notable projects
 :::
 
 :::
