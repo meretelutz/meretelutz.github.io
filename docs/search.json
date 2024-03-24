@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Merete Lutz is a graduate student at the University of British Columbia pursuing a Master’s degree in Data Science. Before moving to Vancouver, she played professional volleyball for five years in Italy, South Korea, and Japan. As an student at Stanford University she graduated with a BS in Human Biology and a MS in Epidemiology. She is passionate about global public health and hopes to use data science to improve health outcome worldwide."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Merete Lutz",
-    "section": "",
-    "text": "Hi 👋, I’m Merete!\nI’m currently pursuing a Master’s of Data Science at the University of British Columbia with an expected completion date of June 30, 2024. Before moving to Vancouver, I played professional volleyball for 5 years in Italy, South Korea, and Japan\nIn 2018 I graduated from Stanford University with a BS in Human Biology and a MS in Epidemiology. I am passionate about global public health and specifically am fascinated by infectious diseases.\nI’m now looking for the perfect opportunity to combine my data science skills with my love of sports and medical data!\n\n\n\n\n\n\nAbout Me\nLearn a bit about me and what I’ve been up to recently!\n\n\n\n\nProjects\nExplore some of my notable projects!"
-  },
-  {
     "objectID": "articles.html",
     "href": "articles.html",
     "title": "Articles",
@@ -21,10 +7,24 @@
     "text": "What I Saw in South Korea\n\n\nFirst-hand account of my experience as a professional athlete and epidemiologist in South Korea during the COVID-19 pandemic\n\n\n\n\n\n\n\n\n\n\n\n\n\nMy Tall Tale\n\n\nArticle about my experience as a Student Athlete at Stanford\n\n\n\n\n\n\n\nNo matching items"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Merete Lutz",
+    "section": "",
+    "text": "Hi 👋, I’m Merete!\nI’m a graduate student at the University of British Columbia pursuing a Master’s of Data Science. Before moving to Vancouver, I played professional volleyball for 5 years in Italy, South Korea, and Japan\nIn 2018 I graduated from Stanford University with a BS in Human Biology and a MS in Epidemiology. I am passionate about global public health and specifically am fascinated by infectious diseases.\nI’m now looking for the perfect opportunity to combine my data science skills with my love of sports and medical data!\n\n\n\n\n\n\nAbout Me\nLearn a bit about me and what I’ve been up to recently!\n\n\n\n\nProjects\nExplore some of my notable projects!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Merete Lutz is a graduate student at the University of British Columbia pursuing a Master’s degree in Data Science. Before moving to Vancouver, she played professional volleyball for five years in Italy, South Korea, and Japan. As an student at Stanford University she graduated with a BS in Human Biology and a MS in Epidemiology. She is passionate about global public health and hopes to use data science to improve health outcome worldwide."
+  },
+  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "quanteda Python Package\n\n\nA package for simplifying the EDA of time-series data\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting high-potential FIFA players using individual performance data\n\n\nA classifier model to identify soccer players with high potential\n\n\n\n\n\n\n\n\n\n\n\n\n\nAthletic Performance and Bone Stress Injuries in Collegiate Athletes\n\n\nEpidemiology Master’s Thesis\n\n\n\n\n\n\n\nNo matching items"
+    "text": "quanteda Python Package\n\n\nA package for simplifying the EDA of time-series data\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting high-potential FIFA players using individual performance data\n\n\nA classifier model to identify soccer players with high potential\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat I Saw in South Korea\n\n\nFirst-hand account of my experience as a professional athlete and epidemiologist in South Korea during the COVID-19 pandemic\n\n\n\n\n\n\n\n\n\n\n\n\n\nAthletic Performance and Bone Stress Injuries in Collegiate Athletes\n\n\nEpidemiology Master’s Thesis\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

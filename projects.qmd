@@ -2,6 +2,7 @@
 pagetitle: Projects | Merete Lutz
 title: Projects
 subtitle: "A selection of technical projects"
+listing:
   contents:
     - path: https://github.com/UBC-MDS/quanteda
       image: /images/quanteda_logo.png
@@ -20,6 +21,5 @@ subtitle: "A selection of technical projects"
       title: "Athletic Performance and Bone Stress Injuries in Collegiate Athletes"
       description: "Epidemiology Master's Thesis"
   type: grid
-  feed: true
   fields: [image, title, description]
 ---
