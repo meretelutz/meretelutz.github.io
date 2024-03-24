@@ -1,10 +1,46 @@
 ---
 title: "Merete Lutz"
+toc: false
+about:
+  id: hero-heading
+  template: jolla
+  image-shape: rounded
+  image-width: 20em
+  image: images/headshot.jpg
+  links:
+    - icon: github
+      text: Github
+      href: https://www.github.com/meretelutz
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/merete-lutz/
+    - icon: envelope
+      text: Email
+      href: mailto:meretelutz@gmail.com
 ---
 
-This website is currently under construction. Please check back later!
+---
 
+Welcome to my page!
 
-This is a Quarto website.
+I've created this website to share a little about me, my projects, experiences, and interests. 
+---
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: mainbox
+::: {style="padding-left: 10px; padding-right: 10px; display: inline-block;"}
+::: {layout-ncol="1"}
+::: {style="text-align: center;"}
+### [About Me](about.qmd)
+
+Learn a bit about me and what I've been up to recently!
+:::
+
+::: {style="text-align: center;"}
+### [Projects](projects.qmd)
+
+Explore some of my notable projects!
+:::
+
+:::
+:::
+:::
