@@ -9,9 +9,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Merete Lutz",
+    "title": "Hi 👋, I’m Merete!",
     "section": "",
-    "text": "Hi 👋, I’m Merete!\nI’m a graduate student at the University of British Columbia pursuing a Master’s of Data Science. Before moving to Vancouver, I played professional volleyball for 5 years in Italy, South Korea, and Japan\nIn 2018 I graduated from Stanford University with a BS in Human Biology and a MS in Epidemiology. I am passionate about global public health and specifically am fascinated by infectious diseases.\nI’m now looking for the perfect opportunity to combine my data science skills with my love of sports and medical data!\n\n\n\n\n\n\nAbout Me\nLearn more about me and my background\n\n\n\n\nProjects\nExplore some of my notable projects"
+    "text": "I’m a graduate student at the University of British Columbia pursuing a Master’s of Data Science. Before moving to Vancouver, I played professional volleyball for 5 years in Italy, South Korea, and Japan\nI graduated from Stanford University in 2018 with a BS in Human Biology and a MS in Epidemiology. My Master’s Thesis examined bone stress injuries in student athletes, and my coursework was particularly focused on global public health and infectious diseases.\nI’m now looking for the perfect opportunity to combine my data science skills with my love of sports and public health data!\n\n\n\n\n\n\nAbout Me\nLearn more about my experiences and background\n\n\n\n\nProjects\nExplore some of my open source projects"
   },
   {
     "objectID": "projects.html",
@@ -32,14 +32,14 @@
     "href": "about.html#data-science-masters",
     "title": "About Me",
     "section": "Data Science Masters",
-    "text": "Data Science Masters\nI moved to Vancouver in August 2023 to begin my Masters of Data Science at UBC. This program has added numerous machine learning methods and statistical practices to my analytical toolbox, building on my knowledge of epidemiological methology and biostatistics. Upon completion of this intensive 10 month-program I feel I will be prepared to excel in any future data science role.\n\nKey Courses\n\nMachine Learning (Supervised & Unsupervised; Classification, Regression, Neural Networks, Language Modelling (NLP), Feature Selection, Time Series & Temporal Models, Deep Learning)\nStatistics (Predictive & Descriptive Statistical Inference, A/B Testing, Hypothesis Testing, Bayesian Statistics, Regression)\nRelational Databases & Database Management (PostgreSQL, NoSQL, MongoDB)\nData Visualization (Python: Altair & matlplotlib, R: ggplot)\nML Ops & Software Development (CI/CD, Containerization, Reproducibility, Data Science Workflows, Unit Testing, Automated Workflows)\nWeb & Cloud Computing (AWS, Spark)\nData Structures & Algorithms\nData Privacy & Ethics"
+    "text": "Data Science Masters\nI moved to Vancouver in August 2023 to begin my Masters of Data Science at UBC. This program has added numerous machine learning methods and statistical practices to my analytical toolbox, building on my knowledge of epidemiological methology and biostatistics. Upon completion of this intensive 10 month-program I feel I will be prepared to excel in any future data science role.\n\nKey Courses\n\nMachine Learning (Supervised & Unsupervised; Classification, Regression, Neural Networks, Language Modelling (NLP), Feature Selection, Time Series & Temporal Models, Deep Learning)\nStatistics (Predictive & Descriptive Statistical Inference, A/B Testing, Hypothesis Testing, Bayesian Statistics, Regression)\nRelational Databases & Database Management (PostgreSQL, NoSQL, MongoDB)\nData Visualization (Python: Altair, matlplotlib, plotly, Dash R: ggplot, Shiny)\nML Ops & Software Development (CI/CD, Containerization, Reproducibility, Data Science Workflows, Unit Testing, Automated Workflows)\nWeb & Cloud Computing (AWS, Spark)\nData Structures & Algorithms\nData Privacy & Ethics"
   },
   {
     "objectID": "about.html#professional-volleyball",
     "href": "about.html#professional-volleyball",
     "title": "About Me",
     "section": "Professional Volleyball",
-    "text": "Professional Volleyball\nAfter graduating from Stanford University in 2018 with my MS in Epidemiology and my BS in Human Biology, I followed my dream of playing professional volleyball overseas. Over 5 years I played in three different countries and gained invaluable life experience. I learned how to adapt to and thrive in unfamiliar cultures, work as part of a team in spite of language barriers, and wholly dedicated myself to perfecting my skills. I also won a league championship in South Korea and was named Co-MVP in the championship series!\nI’ve always been passionate about sports, and as an athlete I was always interested in the data and metrics my team was collecting. From the court to the office, I now hope to apply my data science skills to the world of sports analytics, ideally combining my love of sports and interest in medical data."
+    "text": "Professional Volleyball\nAfter graduating from Stanford University in 2018 with my MS in Epidemiology and my BS in Human Biology, I followed my dream of playing professional volleyball overseas. Over 5 years I played in three different countries and gained invaluable life experience. I was often the only foreign player on my team, and so I quickly learned how to adapt to and thrive in unfamiliar cultures. I found new ways to communicate and work as part of a team, even in spite of language barriers. Finally, I wholly dedicated myself to perfecting my skill in volleyball, pursuing mastery in my sport. I also won a league championship in South Korea and was named Co-MVP in the championship series! Feel free to check out my instagram @meretelutz for some fun volleyball highlights.\nI’ve always been passionate about sports, and as an athlete I was always interested in the data and metrics my team was collecting. From the court to the office, I now hope to apply my data science skills to the world of sports analytics, ideally combining my love of sports and interest in medical data."
   },
   {
     "objectID": "about.html#masters-of-science-in-epidemiology",
@@ -53,6 +53,13 @@
     "href": "about.html#bachelors-of-science-in-human-biology",
     "title": "About Me",
     "section": "Bachelor’s of Science in Human Biology",
-    "text": "Bachelor’s of Science in Human Biology\nConcentration in Environmental Change and the Ecology of Infectious Disease."
+    "text": "Bachelor’s of Science in Human Biology\nMy undergraduate degree is in Human Biology with a concentration in “Environmental Change and the Ecology of Infectious Disease”."
+  },
+  {
+    "objectID": "index.html#hi-im-merete",
+    "href": "index.html#hi-im-merete",
+    "title": "Merete Lutz",
+    "section": "",
+    "text": "I’m a graduate student at the University of British Columbia pursuing a Master’s of Data Science. Before moving to Vancouver, I played professional volleyball for 5 years in Italy, South Korea, and Japan\nIn 2018 I graduated from Stanford University with a BS in Human Biology and a MS in Epidemiology. I am passionate about global public health and specifically am fascinated by infectious diseases.\nI’m now looking for the perfect opportunity to combine my data science skills with my love of sports and medical data!\n\n\n\n\n\n\n\nLearn more about me and my background\n\n\n\n\n\nExplore some of my notable projects"
   }
 ]
