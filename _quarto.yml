@@ -7,7 +7,17 @@ website:
   navbar:
     background: primary
     search: true
+    tools:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/merete-lutz/
+      - icon: github
+        href: https://github.com/meretelutz
+      - icon: envelope
+        text: Email
+        href: mailto:meretelutz@gmail.com
     left:
+      - href: index.qmd
+        text: Home
       - href: about.qmd
         text: About Me
       - href: projects.qmd
@@ -17,9 +27,7 @@ website:
 
 format:
   html:
-    theme:
-      light: flatly
-      dark: darkly
+    theme: lux 
     css: styles.css
     toc: true
 

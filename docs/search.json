@@ -18,7 +18,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "quanteda Python Package\n\n\nA package for simplifying the EDA of time-series data\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting high-potential FIFA players using individual performance data\n\n\nA classifier model to identify soccer players with high potential\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat I Saw in South Korea\n\n\nFirst-hand account of my experience as a professional athlete and epidemiologist in South Korea during the COVID-19 pandemic\n\n\n\n\n\n\n\n\n\n\n\n\n\nAthletic Performance and Bone Stress Injuries in Collegiate Athletes\n\n\nEpidemiology Master’s Thesis\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Pollution Tracker Dashboard\n\n\nWork-in-progress! Check back soon for more development\n\n\n\n\n\n\n\n\n\n\n\n\n\nquanteda Python Package\n\n\nA package for simplifying the EDA of time-series data\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting high-potential FIFA players using individual performance data\n\n\nA classifier model to identify soccer players with high potential\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat I Saw in South Korea\n\n\nFirst-hand account of my experience as a professional athlete and epidemiologist in South Korea during the COVID-19 pandemic\n\n\n\n\n\n\n\n\n\n\n\n\n\nAthletic Performance and Bone Stress Injuries in Collegiate Athletes\n\n\nEpidemiology Master’s Thesis\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -32,7 +32,7 @@
     "href": "about.html#data-science-masters",
     "title": "About Me",
     "section": "Data Science Masters",
-    "text": "Data Science Masters\nI moved to Vancouver in August 2023 to begin my Masters of Data Science at UBC. This program has added numerous machine learning methods and statistical practices to my analytical toolbox, building on my knowledge of epidemiological methology and biostatistics. Upon completion of this intensive 10 month-program I feel I will be prepared to excel in any future data science role.\n\nKey Courses\n\nMachine Learning (Supervised & Unsupervised; Classification, Regression, Neural Networks, Language Modelling (NLP), Feature Selection, Time Series & Temporal Models, Deep Learning)\nStatistics (Predictive & Descriptive Statistical Inference, A/B Testing, Hypothesis Testing, Bayesian Statistics, Regression)\nRelational Databases & Database Management (PostgreSQL, NoSQL, MongoDB)\nData Visualization (Python: Altair, matlplotlib, plotly, Dash R: ggplot, Shiny)\nML Ops & Software Development (CI/CD, Containerization, Reproducibility, Data Science Workflows, Unit Testing, Automated Workflows)\nWeb & Cloud Computing (AWS, Spark)\nData Structures & Algorithms\nData Privacy & Ethics"
+    "text": "Data Science Masters\nI moved to Vancouver in August 2023 to begin my Masters of Data Science at UBC. This program has added numerous machine learning methods and statistical practices to my analytical toolbox, building on my knowledge of epidemiological methodology and biostatistics. Upon completion of this intensive 10 month-program I feel I will be prepared to excel in any future data science role.\n\nKey Courses\n\nMachine Learning (Supervised & Unsupervised; Classification, Regression, Neural Networks, Language Modelling (NLP), Feature Selection, Time Series & Temporal Models, Deep Learning)\nStatistics (Predictive & Descriptive Statistical Inference, A/B Testing, Hypothesis Testing, Bayesian Statistics, Regression)\nRelational Databases & Database Management (PostgreSQL, NoSQL, MongoDB)\nData Visualization (Python: Altair, matplotlib, plotly, Dash R: ggplot, Shiny)\nML Ops & Software Development (CI/CD, Containerization, Reproducibility, Data Science Workflows, Unit Testing, Automated Workflows)\nWeb & Cloud Computing (AWS, Spark)\nData Structures & Algorithms\nData Privacy & Ethics\nCommunication & Argumentation"
   },
   {
     "objectID": "about.html#professional-volleyball",
@@ -45,15 +45,15 @@
     "objectID": "about.html#masters-of-science-in-epidemiology",
     "href": "about.html#masters-of-science-in-epidemiology",
     "title": "About Me",
-    "section": "Master’s of Science in Epidemiology",
-    "text": "Master’s of Science in Epidemiology\n????"
+    "section": "Masters of Science in Epidemiology",
+    "text": "Masters of Science in Epidemiology\nI completed my Masters of Science in Epidemiology at Stanford University in 2018. My thesis examined bone stress injuries in collegiate track and field athletes, utilizing generalized estimating equation models in R to produce statistically significant analysis that filled a gap in research.\nKey Courses: * Probability and Biostatistics (Analysis of Discrete Data, Regression, Prediction, Survival Analysis) * Epidemiologic and Clinical Research Methods (including the design and conduct of clinical trials) * Data Management and Analysis in R * Environmental Change and Emerging Infectious Diseases * Genes and Environment in Disease Causation."
   },
   {
     "objectID": "about.html#bachelors-of-science-in-human-biology",
     "href": "about.html#bachelors-of-science-in-human-biology",
     "title": "About Me",
     "section": "Bachelor’s of Science in Human Biology",
-    "text": "Bachelor’s of Science in Human Biology\nMy undergraduate degree is in Human Biology with a concentration in “Environmental Change and the Ecology of Infectious Disease”."
+    "text": "Bachelor’s of Science in Human Biology\nMy undergraduate degree is in Human Biology with a self-designed concentration in “Environmental Change and the Ecology of Infectious Disease”. My coursework instilled in me a fascination with infectious disease and prepared me for a future in public health when climate change and our interconnected globe could trigger new outbreaks and public health crises.\nI was a student athlete throughout my time at Stanford, winning the NCAA Division-1 Women’s Volleyball Championship in 2016 and earning AVCA All-America honors all four years of my career. Being a student-athlete taught me discipline and time-management skills, as well as how to lead and be a part of a team."
   },
   {
     "objectID": "index.html#hi-im-merete",

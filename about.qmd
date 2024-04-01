@@ -1,32 +1,43 @@
 ---
 title: "About Me"
-image: images/headshot.JPG
+image: images/sanmarino.jpeg
 about:
-  template: broadside
+  template: solana
 ---
 
 Below is a brief summary of what I've been up to for the last couple of years. Please see my LinkedIn, or email me for a more formal outline of my education and professional experience.
 
 ## Data Science Masters
-I moved to Vancouver in August 2023 to begin my [Masters of Data Science](https://masterdatascience.ubc.ca/) at UBC. This program has added numerous machine learning methods and statistical practices to my analytical toolbox, building on my knowledge of epidemiological methology and biostatistics. Upon completion of this intensive 10 month-program I feel I will be prepared to excel in any future data science role.
+I moved to Vancouver in August 2023 to begin my [Masters of Data Science](https://masterdatascience.ubc.ca/) at UBC. This program has added numerous machine learning methods and statistical practices to my analytical toolbox, building on my knowledge of epidemiological methodology and biostatistics. Upon completion of this intensive 10 month-program I feel I will be prepared to excel in any future data science role.
 
 ### [Key Courses](https://ubc-mds.github.io/descriptions/)
 - **Machine Learning** (Supervised & Unsupervised; Classification, Regression, Neural Networks, Language Modelling (NLP), Feature Selection, Time Series & Temporal Models, Deep Learning)
 - **Statistics** (Predictive & Descriptive Statistical Inference, A/B Testing, Hypothesis Testing, Bayesian Statistics, Regression)
 - **Relational Databases & Database Management** (PostgreSQL, NoSQL, MongoDB)
-- **Data Visualization** (Python: Altair, matlplotlib, plotly, Dash R: ggplot, Shiny)
+- **Data Visualization** (Python: Altair, matplotlib, plotly, Dash R: ggplot, Shiny)
 - **ML Ops & Software Development** (CI/CD, Containerization, Reproducibility, Data Science Workflows, Unit Testing, Automated Workflows)
 - **Web & Cloud Computing** (AWS, Spark)
 - **Data Structures & Algorithms**
 - **Data Privacy & Ethics**
+- **Communication & Argumentation**
 
 ## Professional Volleyball
 After graduating from Stanford University in 2018 with my MS in Epidemiology and my BS in Human Biology, I followed my dream of playing professional volleyball overseas. Over 5 years I played in three different countries and gained invaluable life experience. I was often the only foreign player on my team, and so I  quickly learned how to adapt to and thrive in unfamiliar cultures. I found new ways to communicate and work as part of a team, even in spite of language barriers. Finally, I wholly dedicated myself to perfecting my skill in volleyball, pursuing mastery in my sport. I also won a league championship in South Korea and was named Co-MVP in the championship series! Feel free to check out my instagram [@meretelutz](https://www.instagram.com/meretelutz/) for some fun volleyball highlights. 
 
 I've always been passionate about sports, and as an athlete I was always interested in the data and metrics my team was collecting. From the court to the office, I now hope to apply my data science skills to the world of sports analytics, ideally combining my love of sports and interest in medical data.
 
-## Master's of Science in Epidemiology
-????
+## Masters of Science in Epidemiology
+I completed my [Masters of Science in Epidemiology](https://med.stanford.edu/epidemiology-dept.html) at Stanford University in 2018. My [thesis](https://stanford_ftp.sidearmsports.com/custompages/MyStory/MereteLutz/index.html) examined bone stress injuries in collegiate track and field athletes, utilizing generalized estimating equation models in R to produce statistically significant analysis that filled a gap in research.
+
+Key Courses:
+* Probability and Biostatistics (Analysis of Discrete Data, Regression, Prediction, Survival Analysis)
+* Epidemiologic and Clinical Research Methods (including the design and conduct of clinical trials)
+* Data Management and Analysis in R
+* Environmental Change and Emerging Infectious Diseases
+* Genes and Environment in Disease Causation. 
+
 
 ## Bachelor's of Science in Human Biology
-My undergraduate degree is in Human Biology with a concentration in "Environmental Change and the Ecology of Infectious Disease". 
+My undergraduate degree is in Human Biology with a self-designed concentration in "Environmental Change and the Ecology of Infectious Disease". My coursework instilled in me a fascination with infectious disease and prepared me for a future in public health when climate change and our interconnected globe could trigger new outbreaks and public health crises. 
+
+I was a student athlete throughout my time at Stanford, winning the NCAA Division-1 Women's Volleyball Championship in 2016 and earning AVCA All-America honors all four years of my career. Being a student-athlete taught me discipline and time-management skills, as well as how to lead and be a part of a team.
