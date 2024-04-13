@@ -4,10 +4,10 @@ title: Projects
 subtitle: "A selection of technical projects"
 listing:
   contents:
-    - path: https://github.com/UBC-MDS/DSCI-532_2024_2_pollution-tracker
+    - path: https://dsci-532-2024-2-pollution-tracker.onrender.com/
       image: /images/pollution_tracker.jpg
       title: "Pollution Tracker Dashboard"
-      description: "Work-in-progress! Check back soon for more development"
+      description: "A dashboard for the exploration of global air pollution trends"
     - path: https://github.com/UBC-MDS/quanteda
       image: /images/quanteda_logo.png
       title: "quanteda Python Package"
