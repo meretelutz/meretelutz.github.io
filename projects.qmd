@@ -4,6 +4,10 @@ title: Projects
 subtitle: "A selection of technical projects"
 listing:
   contents:
+    - path: https://medium.com/towards-data-science/n-of-1-trials-and-analyzing-your-own-fitness-data-7ae390036094
+      image: /images/n-of-1.webp
+      title: "N-of-1 Trials and Analyzing Your Own Fitness Data"
+      description: "A blog post on analyzing data collected by wearable fitness devices"
     - path: https://dsci-532-2024-2-pollution-tracker.onrender.com/
       image: /images/pollution_tracker.jpg
       title: "Pollution Tracker Dashboard"
